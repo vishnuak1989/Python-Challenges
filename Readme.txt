@@ -5,4 +5,6 @@ Link to the original challenges:
 https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt
 I have completed a couple of questions and have listed the questions below.
 The solutions are uploaded as .py files with the same name is the question. For example. Solution for Question 6 is Q6.py
-The questions are available at the a
+Question 6,7,8,18,19,20,21,22
+These question are of Level 3 in the original challenges list.
+
