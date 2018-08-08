@@ -103,4 +103,6 @@ In case of input data being supplied to the question, it should be assumed to be
 The famous FizzBuzz challenge used in coding interview. The question goes like this: <br />
 Print the number from 1 to 100 and print "Fizz" instead of multiples of 3, "Buzz" instead of multiples of 5 and "FizzBuzz" for multiples of 3 and 5.
 
+* __Number to Words__ <br/>
+A python script that takes in number which is less than 1000 and return its words.
 
